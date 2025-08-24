@@ -1,18 +1,22 @@
 # Task Description
-## Setup environment
-- Create virtual env, use python 3.11+
-- Install required libraries 
-- Set environment variables
-- Test Spark
+
+## Setup
+- Use Python 3.11+
+- Create a virtual environment
+- Install required libraries
+- Configure environment variables
+- Verify Spark works locally
 
 ## Problem
-You will work with a small subset of the publicly available NYC Taxi data set. The data is already in the current repository in `data/source`. 
+You will work with a small subset of the NYC Taxi dataset (already in `data/source/`).  
+The goal is to compute the **most frequent pickup and drop-off zones**.
 
-We would like to determine the most frequent pickup and drop off zones.
+## Guidelines
+- Write clear, maintainable, and well-structured code.
+- Organize the data in a way that supports future extensions.
+- Think carefully about how to model and process the data.
+- Provide basic documentation and instructions on how to run your solution.
+- Explain your thought process, what you are doing and why.
 
-## Tips
-- We would like you to write well-structured, maintainable code. 
-- We would like to end up also with well-structured, maintainable data. 
-- Think ahead carefully how you layer, model, store the data.
-
-
+## Testing
+- Include unit tests for core transformations.
