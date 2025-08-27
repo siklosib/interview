@@ -1,15 +1,15 @@
 # Task Description
 
+## Problem
+You will work with a small subset of the NYC Taxi dataset (already in `data/source/`).  
+The goal is to compute the **most frequent pickup and drop-off zones**.
+
 ## Setup
 - Use Python 3.11+
 - Create a virtual environment
 - Install required libraries
 - Configure environment variables
 - Verify Spark works locally
-
-## Problem
-You will work with a small subset of the NYC Taxi dataset (already in `data/source/`).  
-The goal is to compute the **most frequent pickup and drop-off zones**.
 
 ## Guidelines
 - Write clear, maintainable, and well-structured code.
