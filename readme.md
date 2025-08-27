@@ -7,7 +7,7 @@ The goal is to compute the **most frequent pickup and drop-off zones**.
 ## Setup
 - Use Python 3.11+
 - Create a virtual environment
-- Install required libraries
+- Install required libraries (pyspark, pandas, matplotlib, etc)
 - Configure environment variables
 - Verify Spark works locally
 
