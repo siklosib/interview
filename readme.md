@@ -5,11 +5,10 @@ You will work with a small subset of the NYC Taxi dataset (already in `data/sour
 The goal is to compute the **most frequent pickup and drop-off zones**.
 
 ## Setup
-- Use Python 3.11+
+- Use Python 3.12+
 - Create a virtual environment
-- Install required libraries (pyspark, pandas, matplotlib, etc)
+- Install required libraries (pandas, pyarrow, matplotlib, etc...)
 - Configure environment variables
-- Verify Spark works locally
 
 ## Guidelines
 - Write clear, maintainable, and well-structured code.
