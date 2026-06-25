@@ -1,8 +1,13 @@
 # Task Description
 
-## Problem
+## Problem 1
 You will work with a small subset of the NYC Taxi dataset (already in `data/source/`).  
 The goal is to compute the **most frequent pickup and drop-off zones**.
+
+## Problem 2
+Some drivers cheat by taking a much longer route than necessary between two points
+(known as "long-hauling"). Using the same dataset, the goal is to **flag trips whose
+distance is unusually long for the route they travelled**.
 
 ## Setup
 - Use Python 3.12+
